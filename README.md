@@ -4,7 +4,8 @@ There are several requirements I look for when looking for a signing device
 2. Fully open source (no closed source chips or secure elements)
 3. Generic hardware (this is ideal but not a requirement). Due to supply chain risks.
 4. QR code scanning (makes signing transactions much simpler
-5. Stateless (no battery on board)
+5. Stateless (no battery or key storage device on-board)
+6. This one isn't required, but a nice feature. The ability to "fill up your own gas tank" meaning load your own code. That way you can know the code your running is indeed the open source code that is published.
 
 The seedsigner project is my favorite project because they meet all these requirements. But I recently had a falling out with the team because of the way my
 coin flip code was treated. Basically I was given the run around for 2 years and then the code was superceded. I can't accept this type of behavoir. So I'm looking
