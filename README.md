@@ -13,7 +13,7 @@ for a replacement device that meet all these requirements, but so far I haven't 
 suitable alternative in the future.
 
 
-I decided to look into it a little deeper and put this out there, in case other peole have similar problems with the project.
+I decided to look into it a little deeper and put this out there, in case other peole have similar problems with the Seed Signer project.
 
 -----------
 Grok's summary
